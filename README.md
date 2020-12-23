@@ -7,7 +7,7 @@
 * Ideally, an image can be taken and the app could serve them with historical information and rules of the game that belongs to the respective sport. 
 * This project outlines the underlying model for building the applications with the above capabiliteis 
 
-![Confusion Matrix](https://github.com/yiannimercer/ball_image_classifer/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ## Notes 
 I completed the project following along Ken Jee's informational video, which can be found here: https://www.youtube.com/watch?v=vy-R4oUZaC8&list=PL2zq7klxX5ATPC8RuqCuTDdki3b4NqKQv&index=8
